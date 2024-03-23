@@ -1,0 +1,14 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8óºÃœã1
+H
+java:S1452"&Remove usage of generic wildcard type.(®áÔíûÿÿÿÿ8ô»Ãœã1
+i	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û•½
+8óÝÄ ã1
+B
+java:S1452#"&Remove usage of generic wildcard type.(û•½
+8œ™¹¡ã1
+C
+java:S14525"&Remove usage of generic wildcard type.(ì›ÿˆ8Ïªü¤ã1
+H
+java:S1452F"&Remove usage of generic wildcard type.(€•¼ƒýÿÿÿÿ8×ïü¤ã1

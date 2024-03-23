@@ -1,0 +1,34 @@
+package com.example.propuestacultura.DTO;
+
+public class TipoProponenteDTO {
+
+    private Integer id_tipo_proponente;
+
+    private String tipo_proponente;
+
+    public TipoProponenteDTO() {
+    }
+
+    public TipoProponenteDTO(Integer id_tipo_proponente, String tipo_proponente) {
+        this.id_tipo_proponente = id_tipo_proponente;
+        this.tipo_proponente = tipo_proponente;
+    }
+
+    // Getters y setters
+
+    public Integer getId_tipo_proponente() {
+        return id_tipo_proponente;
+    }
+
+    public void setId_tipo_proponente(Integer id_tipo_proponente) {
+        this.id_tipo_proponente = id_tipo_proponente;
+    }
+
+    public String getTipo_proponente() {
+        return tipo_proponente;
+    }
+
+    public void setTipo_proponente(String tipo_proponente) {
+        this.tipo_proponente = tipo_proponente;
+    }
+}

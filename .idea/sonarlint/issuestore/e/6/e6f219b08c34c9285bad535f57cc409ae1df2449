@@ -1,0 +1,12 @@
+
+g	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(•éÃ÷þÿÿÿÿ8¸¡´œã1
+g	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(ÌÆÉ–ýÿÿÿÿ8»¡´œã1
+g	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(•éÃ÷þÿÿÿÿ8»¡´œã1
+a	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(½ÛÓ^8¿¬™ ã1
+g	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(•éÃ÷þÿÿÿÿ8ëÿŽ¡ã1
+m
+java:S3655C"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(üÕÿú8é¬™ ã1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8Â¡´œã1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8Â¡´œã1
